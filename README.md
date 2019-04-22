@@ -21,5 +21,5 @@ To plot the final training results run the following command.
 
 # Testing
 
-Run `detect.py` to apply trained weights to an image, the model tests the images stored in the images contained in the ./data/samples folder.
+Run `detect.py` to apply trained weights to an image, the model tests the images stored in the images contained in the ./data/samples folder. The output of the model tested on the GTSDB dataset can be seen in the following link ** https://drive.google.com/open?id=1HBVv-2ZLEoQxFNVgwaVOuCdiI2--keSa
 
