@@ -1,0 +1,6 @@
+classes=1
+train=./data/tsd_train.txt
+valid=./data/tsd_test.txt
+names=./data/tsd.names
+backup=backup/
+eval=coco
